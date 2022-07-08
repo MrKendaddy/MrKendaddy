@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MrKendaddy
+- 👋 Hi, I’m @MrKendaddy- I started my IT career as IT system Admin support.
+
 - 👀 I’m interested in SAP EHS and ABAP programming 
 - 🌱 I’m currently learning SAP EHS and ABAP programming
 - 💞️ I’m looking to collaborate on SAP consultants
